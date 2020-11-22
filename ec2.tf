@@ -1,4 +1,4 @@
 resource "aws_instance" "app-dev" {
-  ami = "ami-0a07be880014c7b8e"
+  ami = "ami-04bf6dcdc9ab498ca"
   instance_type = "t2.micro"
 }
